@@ -1,0 +1,10 @@
+C:\Users\phill\OneDrive\Desktop\MSSA\Term2\AssignmentsWeek2\EX 2A - C# - Generic Collections\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe.config
+C:\Users\phill\OneDrive\Desktop\MSSA\Term2\AssignmentsWeek2\EX 2A - C# - Generic Collections\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe
+C:\Users\phill\OneDrive\Desktop\MSSA\Term2\AssignmentsWeek2\EX 2A - C# - Generic Collections\GenericCollections\GenericCollections\bin\Debug\GenericCollections.pdb
+C:\Users\phill\OneDrive\Desktop\MSSA\Term2\AssignmentsWeek2\EX 2A - C# - Generic Collections\GenericCollections\GenericCollections\bin\Debug\GenericCollectionsLibrary.dll
+C:\Users\phill\OneDrive\Desktop\MSSA\Term2\AssignmentsWeek2\EX 2A - C# - Generic Collections\GenericCollections\GenericCollections\bin\Debug\GenericCollectionsLibrary.pdb
+C:\Users\phill\OneDrive\Desktop\MSSA\Term2\AssignmentsWeek2\EX 2A - C# - Generic Collections\GenericCollections\GenericCollections\obj\Debug\GenericCollections.csprojAssemblyReference.cache
+C:\Users\phill\OneDrive\Desktop\MSSA\Term2\AssignmentsWeek2\EX 2A - C# - Generic Collections\GenericCollections\GenericCollections\obj\Debug\GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\phill\OneDrive\Desktop\MSSA\Term2\AssignmentsWeek2\EX 2A - C# - Generic Collections\GenericCollections\GenericCollections\obj\Debug\GenericCollections.csproj.CopyComplete
+C:\Users\phill\OneDrive\Desktop\MSSA\Term2\AssignmentsWeek2\EX 2A - C# - Generic Collections\GenericCollections\GenericCollections\obj\Debug\GenericCollections.exe
+C:\Users\phill\OneDrive\Desktop\MSSA\Term2\AssignmentsWeek2\EX 2A - C# - Generic Collections\GenericCollections\GenericCollections\obj\Debug\GenericCollections.pdb
